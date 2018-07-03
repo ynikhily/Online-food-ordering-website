@@ -1,0 +1,25 @@
+
+.margin1{
+	margin-left: 2cm;
+	margin-right: 2cm;
+}
+input[type=text]{
+	width: 35%;
+	height: 1cm;
+	padding: 1px 1px 1px 20px;
+}
+select{
+	width: 20%;
+	height: 1.15cm;
+	
+	
+}
+input[type=submit]{
+	width: 10%;
+	height: 1.15cm;
+	padding: 2px;
+}
+
+.smhead {
+	font-size: 250px;
+}

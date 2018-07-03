@@ -1,0 +1,134 @@
+.sslogo a{
+	margin-left: 68px;
+	
+	margin-top: 12%;
+	margin-bottom: -15px;
+	color: white;
+	font-size: 45px;
+}
+
+.sshead {
+	background-color: black;
+	margin-top: -30px;
+	margin-left: -8px;
+	padding: 5px; 
+	width: 101.5%;
+	height:15%;
+	margin-bottom: 30px;
+}
+
+.ssmain {
+	text-align: center;
+	margin-left: 25%;
+	margin-top: 2%;
+	margin-right: 25%;
+	padding: 1px;
+}
+
+.ssmain1 {
+	font-size: 35px;
+	font-family: Josefin Slab;
+}
+
+.sshola {
+	text-align: center;
+	padding: 25px;
+	color: white;
+	font-weight: bold;
+}
+
+.ssbutt {
+	width: 0px;
+	background-color: rgba(0,0,0,0.2);
+	padding: 12px 95px;
+	margin: 15px;
+}
+
+.bbody {
+	background: url(../images/food1.png);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+
+.ssone {
+	background-color: rgba(255,255,255,0.8);
+	padding: 5px;
+}
+
+.sstwo {
+	background-color: rgba(255,255,255,0.4);
+}
+
+.ssthree {
+	padding: 5px;
+	background-color: rgba(255,255,255,0.7);
+}
+
+.menubutton {
+	color: white;
+	padding: 10px;
+}
+
+.sspress {
+	float: right;
+	margin-top: -55px;
+	margin-right: 160px;
+}
+
+.input {
+	background: transparent;
+	width: 175%;
+	padding: 7px;
+	border: transparent;
+	border-bottom: 2px solid white;
+}
+
+.welcome {
+	text-align: center;
+	font-family: arial;
+	font-weight: bold;
+	color: teal;
+	font-size: 200%;
+	text-shadow: 1px 1px #7BCCB5;
+}
+
+.credentials {
+	text-align: center;
+	padding: 15px;
+	font-size: 125%;
+	font-family: helevtica;
+	color: 3B9C9C;
+	text-shadow: .5px 1px teal;
+	font-weight: bold;
+}
+
+.details {
+	color: #C35817;
+	font-size: 100%;
+	text-shadow: none;
+	font-weight: bold;
+	font-family:  Courier;
+	padding: 20px;
+}
+
+.makichu {
+	background: rgba(255,255,255,0.6);
+	margin-top: 100px;
+	margin-left: 30%;
+	margin-right: 30%;
+	margin-bottom: -90px;
+}
+
+.makichd {
+	background: rgba(255,255,255,0.6);
+	margin-top: 100px;
+	margin-left: 30%;
+	margin-right: 30%;
+	margin-bottom: -90px;
+	
+}
+
+.ssip {
+	margin-top: 10%;
+	text-align: center;
+}

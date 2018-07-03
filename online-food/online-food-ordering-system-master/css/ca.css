@@ -1,0 +1,36 @@
+.bbody {
+	background: url(../images/cart.jpg);
+	background-attachment: fixed;
+	background-size: 100% 100%;
+}
+
+.sshead {
+	background-color: black;
+	width: 100%;
+	padding: 10px;
+	width: 100%;
+	margin-bottom: 60px;
+}
+.sslogo {
+	margin-left: 68px;
+	margin-top: -15px;
+	margin-bottom: -20px;
+	color: white;
+	font-size: 45px;
+}
+.menu {
+	padding:26px 10px 0 0; 
+	float:right;
+}
+.menu li {
+	float:left;
+	padding-left:40px;
+}
+.menu li a { 
+	font-size:14px; 
+	line-height:18px; 
+	padding:0; 
+	color:#fff; 
+}
+.menu li a.active,
+.menu > li > a:hover {color:#c52e02;}

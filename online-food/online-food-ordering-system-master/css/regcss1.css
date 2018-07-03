@@ -1,0 +1,93 @@
+.sslogo a{
+	color: white;
+	margin-left: 68px;
+	margin-top: -1px;
+	/* margin-bottom: -5px; */
+	color: white;
+	font-size: 45px;
+}
+
+.sshead {
+	background-color: black;
+	margin-top: -8px;
+	margin-left: -8px;
+	padding: 0.5%;
+	width: 100%;
+	margin-bottom: 60px;
+}
+
+.ssmain {
+	text-align: center;
+	margin-left: 25%;
+	margin-top: 2%;
+	margin-right: 25%;
+	padding: 1px;
+}
+
+.ssmain1 {
+	font-size: 35px;
+	font-family: Josefin Slab;
+}
+
+.sshola {
+	text-align: center;
+	padding: 25px;
+	color: white;
+	font-weight: bold;
+}
+
+.ssbutt {
+	width: 0px;
+	background-color: rgba(0,0,0,0.2);
+	padding: 12px 95px;
+	margin: 15px;
+}
+
+.bbody {
+	background: url(/Users/07shishir/Desktop/Project/pizza.png);
+	background-attachment: fixed;
+}
+
+.ssone {
+	background-color: rgba(255,255,255,0.7);
+	padding: 5px;
+}
+
+.sstwo {
+	background-color: rgba(255,255,255,0.4);
+}
+
+.ssthree {
+	padding: 5px;
+	background-color: rgba(255,255,255,0.7);
+}
+
+.menubutton {
+	color: white;
+	padding: 10px;
+}
+
+.sspress {
+	float: right;
+	margin-top: -55px;
+	margin-right: 160px;
+}
+
+.input {
+	background: transparent;
+	width: 175%;
+	padding: 7px;
+	border: transparent;
+	border-bottom: 2px solid white;
+
+	position: absolute;
+	width: 350px;
+	height: 420px;
+	padding: 60px 20px;
+	border: 2px solid white;
+	transform: translate(-50%, -50%);
+	top: 60%;
+	left: 50%;
+	box-sizing: border-box;
+	background: rgba(0,0,0,0.5);
+}
